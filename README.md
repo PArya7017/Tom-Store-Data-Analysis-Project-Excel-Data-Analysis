@@ -6,6 +6,7 @@ Tom's store wants to create an annual sales report for 2022, so that Tom can und
 # Insights
 We analyse the data and share the insights:-
 * Women are more likely to buy compared to men (~65%)
+* In the 2022 report, the maximum number of sales growth was recorded in March.
 * Maharashtra, Karnataka, Uttar Pradesh, Telangana, and Tamil Nadu are the top 5 states.
 * The adult age group (30-49 yrs) is the maximum contributing (~50%)
 * Amazon, Flipkart, and Myntra channels are the maximum contributors.
