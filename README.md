@@ -1,6 +1,6 @@
 # Tom Store Data Analysis Project-Excel/Data Analysis
 
-OBJECTIVE/BUSINESS PROBLEM
+# OBJECTIVE/BUSINESS PROBLEM
 Tom's store wants to create an annual sales report for 2022, so that Tom can understand their customers and increase sales in 2023.
 
 # Insights
